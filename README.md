@@ -11,3 +11,5 @@ Project Deployed :[https://jcosta16.github.io/bellybutton/](https://jcosta16.git
 * HTML/CSS
 * JavaScript
   - D3 
+## Images
+![images/screenshot.png](images/screenshot.png)
